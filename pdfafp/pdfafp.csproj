@@ -1,0 +1,89 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="f\**" />
+    <EmbeddedResource Remove="f\**" />
+    <None Remove="f\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="CZ000001" />
+    <None Remove="CZ000001-1" />
+    <None Remove="CZ000001-2" />
+    <None Remove="CZ000002" />
+    <None Remove="CZ000002-1" />
+    <None Remove="CZ000003" />
+    <None Remove="CZ000004" />
+    <None Remove="CZCO00" />
+    <None Remove="DZ000001" />
+    <None Remove="DZ000002" />
+    <None Remove="ext\codepagetemp" />
+    <None Remove="ext\CZ000001" />
+    <None Remove="ext\CZ000001-1" />
+    <None Remove="ext\CZ000001-2" />
+    <None Remove="ext\CZ000002" />
+    <None Remove="ext\CZ000002-1" />
+    <None Remove="ext\CZ000003" />
+    <None Remove="ext\CZ000004" />
+    <None Remove="ext\CZ000009" />
+    <None Remove="ext\CZ000010" />
+    <None Remove="ext\CZCO00" />
+    <None Remove="ext\CZTNN00" />
+    <None Remove="ext\DZ000001" />
+    <None Remove="ext\DZ000002" />
+    <None Remove="ext\fonttemp" />
+    <None Remove="ext\IM000000" />
+    <None Remove="ext\IM000001" />
+    <None Remove="ext\IM000002" />
+    <None Remove="ext\QZ000001" />
+    <None Remove="ext\S1000001" />
+    <None Remove="ext\S1000002" />
+    <None Remove="ext\S1000003" />
+    <None Remove="ext\T1001252" />
+    <None Remove="ext\T1V10273" />
+    <None Remove="ext\XZ000001" />
+    <None Remove="ext\XZ000001-1" />
+    <None Remove="ext\XZ000001-2" />
+    <None Remove="ext\XZ000002" />
+    <None Remove="ext\XZ000002-2" />
+    <None Remove="ext\XZ000003" />
+    <None Remove="ext\XZ000004" />
+    <None Remove="ext\XZCO00" />
+    <None Remove="IM000000" />
+    <None Remove="IM000001" />
+    <None Remove="IM000002" />
+    <None Remove="QZ000001" />
+    <None Remove="S1000001" />
+    <None Remove="S1000002" />
+    <None Remove="S1000003" />
+    <None Remove="T1001252" />
+    <None Remove="T1V10273" />
+    <None Remove="XZ000001" />
+    <None Remove="XZ000001-1" />
+    <None Remove="XZ000001-2" />
+    <None Remove="XZ000002" />
+    <None Remove="XZ000002-2" />
+    <None Remove="XZ000003" />
+    <None Remove="XZ000004" />
+    <None Remove="XZCO00" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="ext\codepagetemp" />
+    <EmbeddedResource Include="ext\fonttemp" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="PDFsharp" Version="1.50.5147" />
+  </ItemGroup>
+
+</Project>

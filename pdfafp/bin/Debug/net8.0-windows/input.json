@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "type": "text",
+            "value": "AB XXX",
+            "xpos": 12,
+            "ypos": 16,
+            "font": "arialbd",
+            "fontszie": 12
+        },
+        {
+            "type": "text",
+            "value": "EREWERE",
+            "xpos": 122,
+            "ypos": 126,
+            "font": "timesbi",
+            "fontszie": 12
+        },
+        {
+            "type": "text",
+            "value": "AWEERT",
+            "xpos": 162,
+            "ypos": 346,
+            "font": "arialbd",
+            "fontszie": 11
+        },
+        {
+            "type": "image",
+            "file": "image0.jpeg",
+            "xpos": 10,
+            "ypos": 20
+        },
+        {
+            "type": "image",
+            "file": "image1.jpeg",
+            "xpos": 300,
+            "ypos": 420
+        },
+        {
+            "type": "image",
+            "file": "image2.png",
+            "xpos": 410,
+            "ypos": 520
+        }
+    ]
+}
