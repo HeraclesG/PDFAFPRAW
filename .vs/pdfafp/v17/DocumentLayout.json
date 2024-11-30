@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\",
+  "WorkspaceRootPath": "D:\\_Zombie_\\_pro\\pdf2afp\\PDFAFPRAW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|d:\\_zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\pdftoafp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|d:\\_zombie_\\_pro\\pdf2afp\\pdfafpraw\\pdfafp\\pdftoafp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|solutionrelative:pdfafp\\pdftoafp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|d:\\_zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|d:\\_zombie_\\_pro\\pdf2afp\\pdfafpraw\\pdfafp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|solutionrelative:pdfafp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|d:\\_zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\pdfafp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|d:\\_zombie_\\_pro\\pdf2afp\\pdfafpraw\\pdfafp\\pdfafp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|solutionrelative:pdfafp\\pdfafp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|d:\\_zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|d:\\_zombie_\\_pro\\pdf2afp\\pdfafpraw\\pdfafp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|solutionrelative:pdfafp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|D:\\_Zombie_\\_pro\\pdf2afp\\PDFAFPRAW\\pdfafp\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|solutionrelative:pdfafp\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|d:\\_zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\econdingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|d:\\_zombie_\\_pro\\pdf2afp\\pdfafpraw\\pdfafp\\econdingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|solutionrelative:pdfafp\\econdingtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|d:\\_zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|d:\\_zombie_\\_pro\\pdf2afp\\pdfafpraw\\pdfafp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|solutionrelative:pdfafp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|d:\\_zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\pdftextextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|d:\\_zombie_\\_pro\\pdf2afp\\pdfafpraw\\pdfafp\\pdftextextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|solutionrelative:pdfafp\\pdftextextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|D:\\_Zombie_\\_pro\\pdf2afp\\PDFAFPRAW\\pdfafp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CC874A67-B846-4F0C-9022-71D1DF14A303}|pdfafp\\pdfafp.csproj|solutionrelative:pdfafp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -46,15 +46,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\Form1.cs",
+              "DocumentMoniker": "D:\\_Zombie_\\_pro\\pdf2afp\\PDFAFPRAW\\pdfafp\\Form1.cs",
               "RelativeDocumentMoniker": "pdfafp\\Form1.cs",
-              "ToolTip": "D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\Form1.cs",
+              "ToolTip": "D:\\_Zombie_\\_pro\\pdf2afp\\PDFAFPRAW\\pdfafp\\Form1.cs",
               "RelativeToolTip": "pdfafp\\Form1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -64,11 +64,24 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PDFTOAFP.cs",
+              "DocumentMoniker": "D:\\_Zombie_\\_pro\\pdf2afp\\PDFAFPRAW\\pdfafp\\PDFTOAFP.cs",
+              "RelativeDocumentMoniker": "pdfafp\\PDFTOAFP.cs",
+              "ToolTip": "D:\\_Zombie_\\_pro\\pdf2afp\\PDFAFPRAW\\pdfafp\\PDFTOAFP.cs",
+              "RelativeToolTip": "pdfafp\\PDFTOAFP.cs",
+              "ViewState": "AQIAABsCAAAAAAAAAAAYwCMCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:30:40.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\Program.cs",
+              "DocumentMoniker": "D:\\_Zombie_\\_pro\\pdf2afp\\PDFAFPRAW\\pdfafp\\Program.cs",
               "RelativeDocumentMoniker": "pdfafp\\Program.cs",
-              "ToolTip": "D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\Program.cs",
+              "ToolTip": "D:\\_Zombie_\\_pro\\pdf2afp\\PDFAFPRAW\\pdfafp\\Program.cs",
               "RelativeToolTip": "pdfafp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,9 +91,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "pdfafp.csproj",
-              "DocumentMoniker": "D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\pdfafp.csproj",
+              "DocumentMoniker": "D:\\_Zombie_\\_pro\\pdf2afp\\PDFAFPRAW\\pdfafp\\pdfafp.csproj",
               "RelativeDocumentMoniker": "pdfafp\\pdfafp.csproj",
-              "ToolTip": "D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\pdfafp.csproj",
+              "ToolTip": "D:\\_Zombie_\\_pro\\pdf2afp\\PDFAFPRAW\\pdfafp\\pdfafp.csproj",
               "RelativeToolTip": "pdfafp\\pdfafp.csproj",
               "ViewState": "AQIAAD8AAAAAAAAAAAAAAA0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -88,25 +101,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PDFTOAFP.cs",
-              "DocumentMoniker": "D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\PDFTOAFP.cs",
-              "RelativeDocumentMoniker": "pdfafp\\PDFTOAFP.cs",
-              "ToolTip": "D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\PDFTOAFP.cs",
-              "RelativeToolTip": "pdfafp\\PDFTOAFP.cs",
-              "ViewState": "AQIAABsCAAAAAAAAAAAYwCUCAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T15:30:40.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\Form1.cs",
+              "DocumentMoniker": "D:\\_Zombie_\\_pro\\pdf2afp\\PDFAFPRAW\\pdfafp\\Form1.cs",
               "RelativeDocumentMoniker": "pdfafp\\Form1.cs",
               "ToolTip": "D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\Form1.cs [Design]",
-              "RelativeToolTip": "pdfafp\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\pdfafp\\pdfafp\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T15:13:47.492Z"
             },
@@ -114,9 +114,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\Form1.Designer.cs",
+              "DocumentMoniker": "D:\\_Zombie_\\_pro\\pdf2afp\\PDFAFPRAW\\pdfafp\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "pdfafp\\Form1.Designer.cs",
-              "ToolTip": "D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\Form1.Designer.cs",
+              "ToolTip": "D:\\_Zombie_\\_pro\\pdf2afp\\PDFAFPRAW\\pdfafp\\Form1.Designer.cs",
               "RelativeToolTip": "pdfafp\\Form1.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -126,9 +126,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "EcondingTable.cs",
-              "DocumentMoniker": "D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\EcondingTable.cs",
+              "DocumentMoniker": "D:\\_Zombie_\\_pro\\pdf2afp\\PDFAFPRAW\\pdfafp\\EcondingTable.cs",
               "RelativeDocumentMoniker": "pdfafp\\EcondingTable.cs",
-              "ToolTip": "D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\EcondingTable.cs",
+              "ToolTip": "D:\\_Zombie_\\_pro\\pdf2afp\\PDFAFPRAW\\pdfafp\\EcondingTable.cs",
               "RelativeToolTip": "pdfafp\\EcondingTable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,9 +138,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Form1.resx",
-              "DocumentMoniker": "D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\Form1.resx",
+              "DocumentMoniker": "D:\\_Zombie_\\_pro\\pdf2afp\\PDFAFPRAW\\pdfafp\\Form1.resx",
               "RelativeDocumentMoniker": "pdfafp\\Form1.resx",
-              "ToolTip": "D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\Form1.resx",
+              "ToolTip": "D:\\_Zombie_\\_pro\\pdf2afp\\PDFAFPRAW\\pdfafp\\Form1.resx",
               "RelativeToolTip": "pdfafp\\Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2024-06-09T22:09:35.692Z"
@@ -149,9 +149,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "PDFTextExtractor.cs",
-              "DocumentMoniker": "D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\PDFTextExtractor.cs",
+              "DocumentMoniker": "D:\\_Zombie_\\_pro\\pdf2afp\\PDFAFPRAW\\pdfafp\\PDFTextExtractor.cs",
               "RelativeDocumentMoniker": "pdfafp\\PDFTextExtractor.cs",
-              "ToolTip": "D:\\_Zombie_\\_pro\\pdf2afp\\pdfafp\\pdfafp\\PDFTextExtractor.cs",
+              "ToolTip": "D:\\_Zombie_\\_pro\\pdf2afp\\PDFAFPRAW\\pdfafp\\PDFTextExtractor.cs",
               "RelativeToolTip": "pdfafp\\PDFTextExtractor.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAowBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
